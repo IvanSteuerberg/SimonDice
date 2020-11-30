@@ -34,7 +34,7 @@
         android:textStyle="bold"
         android:layout_marginStart="43dp"
         android:layout_marginTop="600dp"
-        android:drawableLeft="@drawable/start_icon"
+        android:drawableStart="@drawable/start_icon"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         />
@@ -80,7 +80,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="53dp"
-        android:drawableLeft="@drawable/check_icon"
+        android:drawableStart="@drawable/check_icon"
         android:backgroundTint="#C51162"
         android:text="@string/check_button"
         android:textColor="#FFEBEE"
